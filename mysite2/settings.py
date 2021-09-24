@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-9i#=zytnc7suyky=jar(i#_b5int-^xtd=!e0koqxg%ifu471k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ruzos.pythonanywhere']
+ALLOWED_HOSTS = ['ruzos.pythonanywhere.com']
 
 
 # Application definition
